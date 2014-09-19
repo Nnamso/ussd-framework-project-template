@@ -4,7 +4,9 @@ This is a Visual Studio project template for [SMSGH USSD Framework](http://githu
 
 Download installer [here](https://github.com/smsgh/ussd-framework-project-template/releases/download/v1.0.0/UssdFrameworkTemplateInstaller.vsix).
 
-## Dependencies
+__Note:__ If you are unable to download the file using Google Chrome try another browser.
+
+## Fix Dependencies
 
 Upon starting a project you will notice some NuGet dependencies are missing.
 
