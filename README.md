@@ -16,4 +16,4 @@ Open Package Manager Console and click __Restore__ to download missing dependenc
 
 Refresh Solutions Explorer for updates to reflect.
 
-<img src="img/refresh-explorer">
+<img src="img/refresh-explorer.PNG">
