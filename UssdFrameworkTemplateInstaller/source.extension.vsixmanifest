@@ -3,7 +3,7 @@
   <Metadata>
     <Identity Id="UssdFrameworkTemplate" Version="1.0" Language="en-US" Publisher="Samora Dake" />
     <DisplayName>SMSGH USSD Framework Template</DisplayName>
-    <Description xml:space="preserve">A template to kickstart building of USSD clients.</Description>
+    <Description xml:space="preserve">C# project template to quick-start building SMSGH USSD clients using the USSD Framework.</Description>
     <MoreInfo>http://github.com/smsgh/ussd-framework-project-template</MoreInfo>
     <Icon>smsgh-mark.png</Icon>
   </Metadata>
@@ -14,6 +14,6 @@
     <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
   </Dependencies>
   <Assets>
-    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\UssdFrameworkProjectTemplate.zip" />
+    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\UssdFrameworkTemplate.zip" />
   </Assets>
 </PackageManifest>
