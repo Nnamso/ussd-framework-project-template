@@ -71,7 +71,9 @@
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
-    <None Include="UssdFrameworkTemplate.zip" />
+    <None Include="UssdFrameworkTemplate.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Content Include="smsgh-mark.png">
